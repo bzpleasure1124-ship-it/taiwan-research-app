@@ -7,10 +7,6 @@ if st.text_input("🔑 ダッシュボードを見るための合言葉を入力
     st.stop()  # 合言葉が違う場合はここで画面の表示をストップします
 # ------------------------------
 
-実行方法:
-    streamlit run research_app.py
-"""
-
 import io
 import os
 import re
